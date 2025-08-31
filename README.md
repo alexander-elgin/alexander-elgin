@@ -1,16 +1,38 @@
-## Hi there 👋
+# Alexander Elgin
 
-<!--
-**alexander-elgin/alexander-elgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Senior Software Developer**
+### **15+ Years Experience**  
 
-Here are some ideas to get you started:
+Bishkek, Kyrgyz Republic (GMT+6)  
+sascha.elgin@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## SUMMARY
+
+Senior developer with over **15 years** of experience in building and deploying large-scale apps.
+Extensive expertise in system design, refactoring and performance optimization.
+Proven ability to set up robust development environment and configuring CI/CD pipelines.
+
+---
+
+## SKILLS
+
+- **Languages:** NodeJS, Python, Typescript, Bash, SQL
+- **Backend:** Django, FastAPI, Alembic, Pydantic, SQLAlchemy; NESTJS, Prisma, TypeORM
+- **Databases:** Clickhouse, PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch
+- **Frontend:** React, Next.js, Redux, Ant Design 
+- **DevOps:** Docker, Docker Compose, Github Actions 
+- **Other:** Git, Git flow
+
+---
+
+## EDUCATION
+
+### **Master of Data Science**  
+**Dortmund Technical University, Germany** | 2008 - 2012  
+Average Grade B+
+
+### **Bachelor of Informatics**  
+**Kyrgyz-Russian Slavic University, Kyrgyz Republic** | 2001 - 2006  
+Thesis: "Visualization of Topological Spaces"
