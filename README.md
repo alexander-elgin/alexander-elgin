@@ -18,8 +18,8 @@ Proven ability to set up robust development environment and configuring CI/CD pi
 
 ## SKILLS
 
-- **Languages:** NodeJS, Python, Typescript, Bash, SQL
-- **Backend:** Django, FastAPI, Alembic, Pydantic, SQLAlchemy; NESTJS, Prisma, TypeORM
+- **Languages:** NodeJS, Typescript, Bash, SQL
+- **Backend:** NESTJS, Prisma, TypeORM
 - **Databases:** Clickhouse, PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch
 - **Frontend:** React, Next.js, Redux, Ant Design 
 - **DevOps:** Docker, Docker Compose, Github Actions 
