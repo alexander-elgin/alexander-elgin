@@ -29,7 +29,7 @@ Proven ability to set up robust development environment and configuring CI/CD pi
 
 ## EDUCATION
 
-### **Master of Data Science**  
+### **Master of Science**  
 **Dortmund Technical University, Germany**
 Average Grade B+
 
